@@ -48,7 +48,7 @@
 }
 
 .topnav a.active {
-  background-color: #04aa6d;
+  background-color: #3b78eb;
   color: white;
 }
 
@@ -64,6 +64,29 @@
   margin-right: 10%;
   text-decoration: none;
   font-size: 17px;
+}
+
+.CollectionsContainer {
+  height: 30em;
+  width: 100%;
+}
+
+.Collection {
+  width: 20em;
+  height: 20em;
+  margin: 5em 1em;
+  display: inline-block;
+  background-image: url("./images/placeholdersquare.png");
+  background-position: center;
+  position: relative;
+}
+
+.TextContainer {
+  width: 100%;
+  height: 5em;
+  position: absolute;
+  bottom: 0px;
+  background-image: url("./images/bannercollections.png");
 }
 
 @keyframes App-logo-spin {
