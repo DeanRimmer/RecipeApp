@@ -7,22 +7,38 @@ class Collections extends React.Component {
       <div className="CollectionsContainer">
         <div className="Collection">
           <div className="TextContainer">
-            <a href="#">cat</a>
+            <a href="#">
+              <h3>Collection</h3>
+              <p>Number</p>
+              <h4>Subtitle</h4>
+            </a>
           </div>
         </div>
         <div className="Collection">
           <div className="TextContainer">
-            <a href="#">cat</a>
+            <a href="#">
+              <h3>Collection</h3>
+              <p>Number</p>
+              <h4>Subtitle</h4>
+            </a>
           </div>
         </div>
         <div className="Collection">
           <div className="TextContainer">
-            <a href="#">cat</a>
+            <a href="#">
+              <h3>Collection</h3>
+              <p>Number</p>
+              <h4>Subtitle</h4>
+            </a>
           </div>
         </div>
         <div className="Collection">
           <div className="TextContainer">
-            <a href="#">cat</a>
+            <a href="#">
+              <h3>Collection</h3>
+              <p>Number</p>
+              <h4>Subtitle</h4>
+            </a>
           </div>
         </div>
       </div>
